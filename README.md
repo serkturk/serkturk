@@ -16,4 +16,5 @@ Lately I’ve been into:
 You’ll probably find me optimizing something small, trying a new keyboard setup, or outside.
 
 **Reach me:** [sa2392@cornell.edu](mailto:sa2392@cornell.edu)
+
 **Links:** [LinkedIn](https://www.linkedin.com/in/serkan-aymaz/) · [GitHub](https://github.com/serkturk) · [Portfolio](https://www.serkanaymaz.dev/)
