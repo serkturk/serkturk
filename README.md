@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey, I’m Serkan 👋
 
-<!--
-**serkturk/serkturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a CS student at Cornell who likes building things that make messy workflows feel simple.
 
-Here are some ideas to get you started:
+Lately I’ve been into:
+- turning real-world processes into tools people actually enjoy using
+- dispatch + ops systems (queues, state, edge cases, reliability)
+- data pipelines that answer “what should we do next?”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A few things I’ve built
+- 🚗 **SafeRide** — ride dispatch + trip tracking for students  
+- 💣 **Minesweeper (OCaml)** — functional core, UI on top, lots of tests  
+- 🍔 **Miami Grill tooling** — ordering + inventory workflows and analytics
+
+### When I’m not coding
+You’ll probably find me optimizing something small, trying a new keyboard setup, or outside.
+
+**Reach me:** [sa2392@cornell.edu](mailto:sa2392@cornell.edu)
+**Links:** [LinkedIn](https://www.linkedin.com/in/serkan-aymaz/) · [GitHub](https://github.com/serkturk) · [Portfolio](https://www.serkanaymaz.dev/)
