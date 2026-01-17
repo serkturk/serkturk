@@ -1,4 +1,4 @@
-## Hey, I’m Serkan 👋
+## Hey, I’m Serkan :)
 
 I’m a CS student at Cornell who likes building things that make messy workflows feel simple.
 
@@ -8,9 +8,9 @@ Lately I’ve been into:
 - data pipelines that answer “what should we do next?”
 
 ### A few things I’ve built
-- 🚗 **SafeRide** — ride dispatch + trip tracking for students  
-- 💣 **Minesweeper (OCaml)** — functional core, UI on top, lots of tests  
-- 🍔 **Miami Grill tooling** — ordering + inventory workflows and analytics
+- **SafeRide** — ride dispatch + trip tracking for students  
+- **Minesweeper (OCaml)** — functional core, UI on top, lots of tests  
+- **Miami Grill tooling** — ordering + inventory workflows and analytics
 
 ### When I’m not coding
 You’ll probably find me optimizing something small, trying a new keyboard setup, or outside.
