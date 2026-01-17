@@ -8,13 +8,13 @@ Lately I’ve been into:
 - data pipelines that answer “what should we do next?”
 
 ### A few things I’ve built
-- **SafeRide** — ride dispatch + trip tracking for students  
-- **Minesweeper (OCaml)** — functional core, UI on top, lots of tests  
-- **Miami Grill tooling** — ordering + inventory workflows and analytics
+- **SafeRide:** ride dispatch + trip tracking for students  
+- **Minesweeper (OCaml):** functional core, UI on top, lots of tests  
+- **Miami Grill tooling:** ordering + inventory workflows and analytics
 
 ### When I’m not coding
 You’ll probably find me optimizing something small, trying a new keyboard setup, or outside.
 
-**Reach me:** [sa2392@cornell.edu](mailto:sa2392@cornell.edu)
+**Reach me at** [sa2392@cornell.edu](mailto:sa2392@cornell.edu)
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/serkan-aymaz/) · [GitHub](https://github.com/serkturk) · [Portfolio](https://www.serkanaymaz.dev/)
+[LinkedIn](https://www.linkedin.com/in/serkan-aymaz/) · [GitHub](https://github.com/serkturk) · [Portfolio](https://www.serkanaymaz.dev/)
